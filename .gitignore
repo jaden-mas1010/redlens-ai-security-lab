@@ -1,0 +1,15 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive configuration
+.env
+.env.*
+*.key
+
+# Temporary files
+*.log
+*.zip
+.DS_Store
